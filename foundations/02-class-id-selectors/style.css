@@ -1,0 +1,16 @@
+.alpha {
+    background-color: rgb(255, 160, 120);
+    font-family: Verdana, sans-serif;
+}
+#beta {
+    color:royalblue;
+    font-size: 36px;
+}
+.gamma {
+    font-size: 24px;
+}
+#delta {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
